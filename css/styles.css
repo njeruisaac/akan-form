@@ -1,0 +1,27 @@
+/* body{
+    background-image:url("1.jpeg");
+    background-repeat:no-repeat ;
+    background-size: cover;
+    /* background-position: center; */
+*/
+h1 {
+    color: black;
+    font-style: italic;
+    font-size: xx-large;
+}
+body{
+    /* background-color: #000000; */
+    background-image: url("https://bit.ly/39EMTwe");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+h2 {
+    text-align: center;
+    color: blanchedalmond;
+}
+label{
+    text-align: center;
+    color: blanchedalmond;
+}

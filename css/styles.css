@@ -1,24 +1,26 @@
-/* body{
-    background-image:url("1.jpeg");
-    background-repeat:no-repeat ;
-    background-size: cover;
-    /* background-position: center; */
-*/
+
 h1 {
-    color: black;
+    color: rgb(51, 48, 48);
     font-style: italic;
     font-size: xx-large;
+
 }
 body{
-    /* background-color: #000000; */
-    background-repeat: no-repeat;
+    background-size: cover;
+    background :url(../images//Ghana-Flag.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
 
 }
+.jumbotron{
+    background: none;
+}
 h2 {
     text-align: center;
     color: blanchedalmond;
+}
+p{
+    color: gold;
 }
 label{
     text-align: center;

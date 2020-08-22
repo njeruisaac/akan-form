@@ -10,3 +10,22 @@ function results() {
     var day2=date.getDay();
     var akan; 
     
+    if(day <1 || day >31){
+        alert("invalid date");
+        return false;
+        }
+        if (month <1 || month>12){
+        alert("Invalid month");
+        return false;
+        }
+        if(year <1900 || year >2030){
+        alert("invalid year");
+        return false;
+        }
+        
+        if(gender === "male") {
+        akan =akanMale[day2];
+        }else{
+        akan =akanFemale[day2];
+        }
+ 

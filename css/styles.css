@@ -10,8 +10,21 @@ body{
     background :url(../images//Ghana-Flag.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
+    font-family: 'Raleway', sans-serif;
 
 }
 .jumbotron{
     background: none;
+}
+
+.jumbotron h1{
+    color: blanchedalmond;
+    font-family: 'Raleway', sans-serif !important;
+}
+p{
+    color: rgb(189, 46, 101);
+}
+label{
+    text-align: center;
+    color: rgb(27, 23, 23);
 }

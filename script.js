@@ -4,3 +4,9 @@ var dayOfTheWeek =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","
 function results() {
     var month =parseInt(document.getElementById("month").value);
     var year =parseInt(document.getElementById("year").value);
+    var day=parseInt(document.getElementById("day").value);
+    var date=new Date(year + "/" + month + "/" + day);
+    var gender= print();
+    var day2=date.getDay();
+    var akan; 
+    

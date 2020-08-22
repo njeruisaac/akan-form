@@ -30,3 +30,12 @@ function results() {
         }
         alert("You were born on " + dayOfTheWeek [day2] + " and your akan name is " + akan);
         }
+        function print(){
+            var gender=document.getElementsByName("gender");
+            for(i=0; i<gender.length; i++){
+            if(gender[i].checked){
+            return(gender[i].value)
+            }
+            }
+            
+            }

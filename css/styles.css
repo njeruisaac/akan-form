@@ -5,24 +5,3 @@ h1 {
     font-size: xx-large;
 
 }
-body{
-    background-size: cover;
-    background :url(../images//Ghana-Flag.jpg) no-repeat;
-    background-size: cover;
-    height: 100vh;
-
-}
-.jumbotron{
-    background: none;
-}
-h2 {
-    text-align: center;
-    color: blanchedalmond;
-}
-p{
-    color: gold;
-}
-label{
-    text-align: center;
-    color: blanchedalmond;
-}

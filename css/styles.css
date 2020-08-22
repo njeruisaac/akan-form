@@ -5,3 +5,10 @@ h1 {
     font-size: xx-large;
 
 }
+body{
+    background-size: cover;
+    background :url(../images//Ghana-Flag.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
